@@ -1,6 +1,6 @@
 # portfolio-soft-rick-and-morty
 
-##### Tema Dark
+#### Tema Dark
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center;">
  <img src="https://github.com/supppus/portfolio-soft-rick-and-morty/blob/main/apresentacao/dark/primeira.png?raw=true" width="400px">
  
