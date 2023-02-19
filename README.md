@@ -14,3 +14,19 @@
  
  <img src="https://github.com/supppus/portfolio-soft-rick-and-morty/blob/main/apresentacao/dark/sexta.png?raw=true" width="400px">
 </div>
+<br/>
+
+### Tema Light
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center;">
+ <img src="https://github.com/supppus/portfolio-soft-rick-and-morty/blob/main/apresentacao/light/primeira.png?raw=true" width="400px">
+ 
+ <img src="https://github.com/supppus/portfolio-soft-rick-and-morty/blob/main/apresentacao/light/segunda.png?raw=true" width="400px">
+ 
+ <img src="https://github.com/supppus/portfolio-soft-rick-and-morty/blob/main/apresentacao/light/terceira.png?raw=true" width="400px">
+ 
+ <img src="https://github.com/supppus/portfolio-soft-rick-and-morty/blob/main/apresentacao/light/quarta.png?raw=true" width="400px">
+ 
+ <img src="https://github.com/supppus/portfolio-soft-rick-and-morty/blob/main/apresentacao/light/quinta.png?raw=true" width="400px">
+ 
+ <img src="https://github.com/supppus/portfolio-soft-rick-and-morty/blob/main/apresentacao/light/sexta.png?raw=true" width="400px">
+</div>
