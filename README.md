@@ -30,3 +30,14 @@
  
  <img src="https://github.com/supppus/portfolio-soft-rick-and-morty/blob/main/apresentacao/light/sexta.png?raw=true" width="400px">
 </div>
+
+<br/>
+
+## Bibliotecas utilizadas no React
+> * redux;
+> * react-redux;
+> * @redux-devtools/extension;
+> * react-router-dom;
+> * styled-components;
+> * tsparticles;
+> * react-particles;
