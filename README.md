@@ -1,6 +1,6 @@
 # portfolio-soft-rick-and-morty
 
- <img src="https://github.com/supppus/portfolio-soft-rick-and-morty/blob/main/apresentacao/dark/primeira.png?raw=true">
+ <img src="https://github.com/supppus/portfolio-soft-rick-and-morty/blob/main/apresentacao/dark/primeira.png?raw=true" width="200px">
  
  <img src="https://github.com/supppus/portfolio-soft-rick-and-morty/blob/main/apresentacao/dark/segunda.png?raw=true">
  
