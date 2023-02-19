@@ -1,6 +1,6 @@
 # portfolio-soft-rick-and-morty
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center;">
  <img src="https://github.com/supppus/portfolio-soft-rick-and-morty/blob/main/apresentacao/dark/primeira.png?raw=true" width="400px">
  
  <img src="https://github.com/supppus/portfolio-soft-rick-and-morty/blob/main/apresentacao/dark/segunda.png?raw=true" width="400px">
