@@ -1,6 +1,6 @@
 # portfolio-soft-rick-and-morty
 
-### Tema Dark
+### Dark theme
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center;">
  <img src="https://github.com/supppus/portfolio-soft-rick-and-morty/blob/main/apresentacao/dark/primeira.png?raw=true" width="400px">
  
@@ -16,7 +16,7 @@
 </div>
 <br/>
 
-### Tema Light
+### Light theme
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center;">
  <img src="https://github.com/supppus/portfolio-soft-rick-and-morty/blob/main/apresentacao/light/primeira.png?raw=true" width="400px">
  
@@ -33,7 +33,7 @@
 
 <br/>
 
-## Bibliotecas utilizadas no React
+## Libraries
 > * redux;
 > * react-redux;
 > * @redux-devtools/extension;
